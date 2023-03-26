@@ -2,8 +2,10 @@
 A pure Java based Application designed in the regard of Course Registration of Students.
 
 ## *How To Run*
-1. Select a Java compiler or any text file
-2. Select the code and paste any of the compiler or copy the code in text file and save it as .java file
+1. Clone the git repo
+2. open eclipse ide and import the project 
+4. File -> Import -> General. Click Existing Projects into Workspace
+3. Right-click on the same project and select run as -> java application
 
 ## *How to Get Started*
 1. Enter the No.of students Enrolled.
